@@ -1,0 +1,20 @@
+# Byte‑compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual envs & env files
+venv/
+.env
+
+# DVC
+/.dvc/cache
+*.dvc
+
+# Generated outputs
+generated/
+
+# MLflow runs
+mlruns/
+
+# OS
+.DS_Store
