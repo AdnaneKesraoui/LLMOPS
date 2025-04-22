@@ -1,0 +1,2 @@
+GET /pets
+Returns a list of pets.
